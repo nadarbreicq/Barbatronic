@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="PLATE_PROMPTEUR.svg"
+   id="svg2455"
+   version="1.1"
+   height="567.92914"
+   width="834.86017"
+   viewBox="0 0 834.86015 567.92915">
+  <metadata
+     id="metadata2459">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g2451"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="268.16323"
+     inkscape:cx="293.59856"
+     inkscape:zoom="0.73720646"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview2457"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2383">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path2371"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path2374"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path2376"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path2378"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     transform="translate(-143.83071,-441.70472)"
+     id="g2385"
+     inkscape:label="0"
+     inkscape:groupmode="layer" />
+  <g
+     transform="translate(-143.83071,-441.70472)"
+     id="g2451"
+     inkscape:label="ProjItem001"
+     inkscape:groupmode="layer">
+    <g
+       id="g3060">
+      <path
+         d="m 545.10236,898.9149 -87.13701,97.59609"
+         style="fill:none;stroke:#ff0000"
+         id="path2387" />
+      <path
+         d="M 429.77008,1009.1339 A 37.795276,37.795276 0 0 0 457.963,996.51083"
+         style="fill:none;stroke:#ff0000"
+         id="path2389" />
+      <path
+         d="m 564.83906,890.07874 a 26.456693,26.456693 0 0 0 -19.73514,8.83622"
+         style="fill:none;stroke:#ff0000"
+         id="path2391" />
+      <path
+         d="m 182.12598,1009.1339 h 247.6441"
+         style="fill:none;stroke:#ff0000"
+         id="path2393" />
+      <path
+         d="M 564.83906,890.07874 H 730.12157"
+         style="fill:none;stroke:#ff0000"
+         id="path2395" />
+      <path
+         d="m 144.33071,971.33858 a 37.795276,37.795276 0 0 0 37.79527,37.79532"
+         style="fill:none;stroke:#ff0000"
+         id="path2397" />
+      <path
+         d="m 749.85662,898.91486 a 26.456693,26.456693 0 0 0 -19.73505,-8.83612"
+         style="fill:none;stroke:#ff0000"
+         id="path2399" />
+      <path
+         d="M 144.33071,480 V 971.33858"
+         style="fill:none;stroke:#ff0000"
+         id="path2401" />
+      <path
+         d="m 749.85827,898.9149 31.46457,35.24107"
+         style="fill:none;stroke:#ff0000"
+         id="path2403" />
+      <path
+         d="M 182.12598,442.20472 A 37.795276,37.795276 0 0 0 144.33071,480"
+         style="fill:none;stroke:#ff0000"
+         id="path2405" />
+      <path
+         d="m 781.32439,934.1559 a 26.456693,26.456693 0 0 0 19.73514,8.83623"
+         style="fill:none;stroke:#ff0000"
+         id="path2407" />
+      <path
+         d="M 429.77008,442.20472 H 182.12598"
+         style="fill:none;stroke:#ff0000"
+         id="path2409" />
+      <path
+         d="M 801.05953,942.99213 H 902.60032"
+         style="fill:none;stroke:#ff0000"
+         id="path2411" />
+      <path
+         d="M 457.963,454.82775 A 37.795276,37.795276 0 0 0 429.77008,442.20472"
+         style="fill:none;stroke:#ff0000"
+         id="path2413" />
+      <path
+         d="m 902.60032,942.99213 a 75.590551,75.590551 0 0 0 75.59055,-75.59056"
+         style="fill:none;stroke:#ff0000"
+         id="path2415" />
+      <path
+         d="M 545.10236,552.42331 457.96535,454.82835"
+         style="fill:none;stroke:#ff0000"
+         id="path2417" />
+      <path
+         d="M 978.19087,867.40157 V 583.93701"
+         style="fill:none;stroke:#ff0000"
+         id="path2419" />
+      <path
+         d="m 545.10392,552.42362 a 26.456693,26.456693 0 0 0 19.73514,8.83622"
+         style="fill:none;stroke:#ff0000"
+         id="path2421" />
+      <path
+         d="M 978.19087,583.93701 A 75.590551,75.590551 0 0 0 902.60032,508.34646"
+         style="fill:none;stroke:#ff0000"
+         id="path2423" />
+      <path
+         d="M 730.12157,561.25984 H 564.83906"
+         style="fill:none;stroke:#ff0000"
+         id="path2425" />
+      <path
+         d="M 902.60032,508.34646 H 801.05953"
+         style="fill:none;stroke:#ff0000"
+         id="path2427" />
+      <path
+         d="m 730.12157,561.25984 a 26.456693,26.456693 0 0 0 19.73505,-8.83612"
+         style="fill:none;stroke:#ff0000"
+         id="path2429" />
+      <path
+         d="m 801.05953,508.34646 a 26.456693,26.456693 0 0 0 -19.73514,8.83622"
+         style="fill:none;stroke:#ff0000"
+         id="path2431" />
+      <path
+         d="m 781.32284,517.18299 -31.46457,35.24032"
+         style="fill:none;stroke:#ff0000"
+         id="path2433" />
+      <path
+         d="m 704.17512,725.66929 a 56.692915,56.692915 0 1 0 -113.38583,0 56.692915,56.692915 0 1 0 113.38583,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2435" />
+      <path
+         d="m 311.00787,536.69291 a 15.496063,15.496063 0 1 0 -30.99212,0 15.496063,15.496063 0 1 0 30.99212,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2437" />
+      <path
+         d="m 311.00787,914.64567 a 15.496063,15.496063 0 1 0 -30.99212,0 15.496063,15.496063 0 1 0 30.99212,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2439" />
+      <path
+         d="m 915.82866,725.66929 a 13.228346,13.228346 0 1 0 -26.45669,0 13.228346,13.228346 0 1 0 26.45669,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2441" />
+      <path
+         d="m 799.41921,583.93701 a 10.204725,10.204725 0 1 0 -20.40945,0 10.204725,10.204725 0 1 0 20.40945,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2443" />
+      <path
+         d="m 515.95465,583.93701 a 10.204725,10.204725 0 1 0 -20.40945,0 10.204725,10.204725 0 1 0 20.40945,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2445" />
+      <path
+         d="m 515.95465,867.40157 a 10.204725,10.204725 0 1 0 -20.40945,0 10.204725,10.204725 0 1 0 20.40945,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2447" />
+      <path
+         d="m 799.41921,867.40157 a 10.204725,10.204725 0 1 0 -20.40945,0 10.204725,10.204725 0 1 0 20.40945,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path2449" />
+    </g>
+  </g>
+  <desc
+     id="desc2453">PLATE_PROMPTEUR.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>

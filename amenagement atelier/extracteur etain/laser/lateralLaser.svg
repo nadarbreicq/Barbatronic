@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="LATERAL_LASER.svg"
+   id="svg873"
+   version="1.1"
+   height="549.15485"
+   width="766.50214"
+   viewBox="0 0 766.50212 549.15486">
+  <metadata
+     id="metadata877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="g1022"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="311.9178"
+     inkscape:cx="152.64799"
+     inkscape:zoom="0.73673543"
+     showgrid="false"
+     id="namedview875"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs845">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path833"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path836"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path838"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path840"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     transform="translate(195.29874,-242.12074)"
+     id="g847"
+     inkscape:label="0"
+     inkscape:groupmode="layer" />
+  <g
+     transform="translate(195.29874,-242.12074)"
+     id="g869"
+     inkscape:label="ProjItem"
+     inkscape:groupmode="layer">
+    <g
+       transform="rotate(90,-91.880301,126.86333)"
+       id="g1022">
+      <path
+         d="M 27.77845,21.90889 H 568.25241"
+         style="fill:none;stroke:#ff0000"
+         id="path849" />
+      <path
+         d="m 27.77845,21.90889 -3.77953,3.77953"
+         style="fill:none;stroke:#ff0000"
+         id="path851" />
+      <path
+         d="m 568.25241,21.90889 3.77952,3.77953"
+         style="fill:none;stroke:#ff0000"
+         id="path853" />
+      <path
+         d="M 23.99892,226.00225 V 25.68842"
+         style="fill:none;stroke:#ff0000"
+         id="path855" />
+      <path
+         d="M 572.03193,25.68842 V 226.00225"
+         style="fill:none;stroke:#ff0000"
+         id="path857" />
+      <path
+         d="m 27.77845,229.78177 -3.77953,-3.77952"
+         style="fill:none;stroke:#ff0000"
+         id="path859" />
+      <path
+         d="m 572.03193,226.00225 -3.77952,3.77952"
+         style="fill:none;stroke:#ff0000"
+         id="path861" />
+      <path
+         d="M 568.25241,229.78177 H 27.77845"
+         style="fill:none;stroke:#ff0000"
+         id="path863" />
+      <path
+         d="m 549.35477,84.64905 a 6.047245,6.047245 0 1 0 0,-12.09449 6.047245,6.047245 0 1 0 0,12.09449 z"
+         style="fill:none;stroke:#ff0000"
+         id="path865" />
+      <path
+         d="m 46.67609,84.64905 a 6.047245,6.047245 0 1 0 0,-12.09449 6.047245,6.047245 0 1 0 0,12.09449 z"
+         style="fill:none;stroke:#ff0000"
+         id="path867" />
+    </g>
+    <g
+       id="g1034">
+      <path
+         id="path849-8"
+         style="fill:none;stroke:#ff0000"
+         d="M 26.4499,242.62074 H 566.92386" />
+      <path
+         id="path851-9"
+         style="fill:none;stroke:#ff0000"
+         d="m 26.4499,242.62074 -3.77953,3.77953" />
+      <path
+         id="path853-8"
+         style="fill:none;stroke:#ff0000"
+         d="m 566.92386,242.62074 3.77952,3.77953" />
+      <path
+         id="path855-8"
+         style="fill:none;stroke:#ff0000"
+         d="M 22.67037,446.7141 V 246.40027" />
+      <path
+         id="path857-3"
+         style="fill:none;stroke:#ff0000"
+         d="M 570.70338,246.40027 V 446.7141" />
+      <path
+         id="path859-3"
+         style="fill:none;stroke:#ff0000"
+         d="M 26.4499,450.49362 22.67037,446.7141" />
+      <path
+         id="path861-0"
+         style="fill:none;stroke:#ff0000"
+         d="m 570.70338,446.7141 -3.77952,3.77952" />
+      <path
+         id="path863-2"
+         style="fill:none;stroke:#ff0000"
+         d="M 566.92386,450.49362 H 26.4499" />
+      <path
+         id="path865-1"
+         style="fill:none;stroke:#ff0000"
+         d="m 548.02622,305.3609 a 6.047245,6.047245 0 1 0 0,-12.09449 6.047245,6.047245 0 1 0 0,12.09449 z" />
+      <path
+         id="path867-6"
+         style="fill:none;stroke:#ff0000"
+         d="m 45.34754,305.3609 a 6.047245,6.047245 0 1 0 0,-12.09449 6.047245,6.047245 0 1 0 0,12.09449 z" />
+    </g>
+  </g>
+  <desc
+     id="desc871">LATERAL_LASER.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>
