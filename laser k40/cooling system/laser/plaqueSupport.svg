@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="plaqueSupport.svg"
+   id="svg1598"
+   version="1.1"
+   height="488.55905"
+   width="870.29132"
+   viewBox="0 0 870.2913 488.55907">
+  <metadata
+     id="metadata1602">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g1594"
+     inkscape:window-maximized="1"
+     inkscape:window-y="162"
+     inkscape:window-x="2992"
+     inkscape:cy="225.66841"
+     inkscape:cx="475.8212"
+     inkscape:zoom="1.1439136"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview1600"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs1562">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path1550"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path1553"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1555"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1557"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     transform="translate(-126.11417,-481.38976)"
+     id="g1564"
+     inkscape:label="0"
+     inkscape:groupmode="layer" />
+  <g
+     transform="translate(-126.11417,-481.38976)"
+     id="g1594"
+     inkscape:label="ProjItem"
+     inkscape:groupmode="layer">
+    <g
+       id="g2185">
+      <path
+         d="M 141.73228,481.88976 H 980.7874"
+         style="fill:none;stroke:#ff0000"
+         id="path1566" />
+      <path
+         d="m 141.73228,481.88976 -15.11811,15.11811"
+         style="fill:none;stroke:#ff0000"
+         id="path1568" />
+      <path
+         d="m 980.7874,481.88976 15.11811,15.11811"
+         style="fill:none;stroke:#ff0000"
+         id="path1570" />
+      <path
+         d="M 126.61417,954.33071 V 497.00787"
+         style="fill:none;stroke:#ff0000"
+         id="path1572" />
+      <path
+         d="M 995.90551,497.00787 V 954.33071"
+         style="fill:none;stroke:#ff0000"
+         id="path1574" />
+      <path
+         d="M 141.73228,969.44882 126.61417,954.33071"
+         style="fill:none;stroke:#ff0000"
+         id="path1576" />
+      <path
+         d="M 995.90551,954.33071 980.7874,969.44882"
+         style="fill:none;stroke:#ff0000"
+         id="path1578" />
+      <path
+         d="M 980.7874,969.44882 H 141.73228"
+         style="fill:none;stroke:#ff0000"
+         id="path1580" />
+      <path
+         d="m 974.17323,512.12598 a 8.50394,8.50394 0 1 0 -17.00788,0 8.50394,8.50394 0 1 0 17.00788,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1582" />
+      <path
+         d="m 165.35433,512.12598 a 8.503937,8.503937 0 1 0 -17.00787,0 8.503937,8.503937 0 1 0 17.00787,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1584" />
+      <path
+         d="m 926.74016,924.09449 a 6.4252,6.4252 0 1 0 -12.8504,0 6.4252,6.4252 0 1 0 12.8504,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1586" />
+      <path
+         d="m 208.62992,595.27559 a 6.425197,6.425197 0 1 0 -12.85039,0 6.425197,6.425197 0 1 0 12.85039,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1588" />
+      <path
+         d="m 926.74016,527.24409 a 6.4252,6.4252 0 1 0 -12.8504,0 6.4252,6.4252 0 1 0 12.8504,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1590" />
+      <path
+         d="m 473.19685,595.27559 a 6.425197,6.425197 0 1 0 -12.85039,0 6.425197,6.425197 0 1 0 12.85039,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path1592" />
+    </g>
+  </g>
+  <desc
+     id="desc1596">plaqueSupport.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>

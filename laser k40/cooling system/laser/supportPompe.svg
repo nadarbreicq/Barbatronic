@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="supportPompe.svg"
+   id="svg877"
+   version="1.1"
+   viewBox="0 0 118.80575 85.349997"
+   height="85.349998mm"
+   width="118.80575mm">
+  <metadata
+     id="metadata883">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs881" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="svg877"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="174.86382"
+     inkscape:cx="213.43617"
+     inkscape:zoom="1.2876814"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview879"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="rotate(90,60.077875,59.402875)"
+     id="g931">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       d="M 0.85,109.30575 V 10.85 l 10,-10 h 65 l 10,10 v 98.45575 a 10,10 0 0 1 -10,10 h -65 a 10,10 0 0 1 -10,-10"
+       id="Unfold_Sketch_w0000" />
+    <path
+       id="path907"
+       d="m 63.35,95.305752 h -7.452734 c -0.340972,8e-6 -0.658448,-0.17372 -0.842266,-0.4609"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path905"
+       d="m 63.35,45.305752 v 50"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path903"
+       d="M 55.054994,94.844806 24.428107,46.990295 25.35,45.305752 h 38"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       id="circle861"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2.25"
+       cy="-21.85"
+       cx="78.349998"
+       transform="scale(1,-1)" />
+    <circle
+       id="circle863"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2.25"
+       cy="-21.85"
+       cx="8.3500004"
+       transform="scale(1,-1)" />
+    <circle
+       id="circle865"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="1.75"
+       cy="-101.80576"
+       cx="79.599998"
+       transform="scale(1,-1)" />
+    <circle
+       id="circle867"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="1.75"
+       cy="-61.805752"
+       cx="79.599998"
+       transform="scale(1,-1)" />
+    <circle
+       id="circle869"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="1.75"
+       cy="-61.805752"
+       cx="7.0999999"
+       transform="scale(1,-1)" />
+    <circle
+       id="circle871"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="1.75"
+       cy="-101.80576"
+       cx="7.0999999"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       d="m 0.85,42.577876 h 85"
+       id="Unfold_Sketch_w0008" />
+  </g>
+</svg>
