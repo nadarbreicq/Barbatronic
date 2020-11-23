@@ -31,7 +31,7 @@ Section concernant les améliorations de ma découpeuse laser K40
 Liste du materiel utilisé. Il se peut que les prix fluctuent ou que les articles ne soient plus disponibles.
 
 | Nom | Prix |
-|--:|:--|:--:|
+|--:|:--|
 | [Decoupe laser K40](https://www.amazon.fr/gp/product/B07S7ZB78P/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | 450,00€ |
 | [Relais temporisé](https://www.aliexpress.com/item/AC-110V-220V-12V-Digital-Time-Delay-Relay-Dual-LED-Display-Cycle-Timer-Control-Switch-Adjustable/32956193400.html?spm=a2g0s.9042311.0.0.27426c37Mf47Zz) | 2,76$ |
 | [Interrupteur à bascule](https://www.aliexpress.com/item/5Pcs-SCI-R13-402A-Round-2Pin-ON-OFF-SPST-2Position-Toggle-Switch-3A-250VAC/32833028230.html?spm=a2g0s.9042311.0.0.27426c37Mf47Zz) | 3,42$ |
