@@ -1,6 +1,6 @@
 # K40
 
-Section concernant les améliorations de ma découpeuse laser K40
+Section concernant les améliorations de ma découpeuse laser K40. En cours de documentation ...
 
 ## Logiciels utilisés :
 
@@ -9,6 +9,10 @@ Section concernant les améliorations de ma découpeuse laser K40
 - K40 Whisperer : https://www.scorchworks.com/K40whisperer/k40whisperer.html
 - Eagle : https://www.autodesk.fr/products/eagle
 - Cura : https://ultimaker.com/fr/software/ultimaker-cura
+
+## Liens interessants sur la K40
+
+- Blog de Iooner : https://iooner.io/k40-laser/
 
 ## Liste des vidéos par thématique
 
