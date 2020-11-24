@@ -16,7 +16,7 @@ Section concernant les améliorations de ma découpeuse laser K40. En cours de d
 
 ## Liste des vidéos par thématique
 
-- La découpeuse laser : https://youtu.be/tBG8asUFFoE
+- La découpeuse laser - Mr Bidouille : https://youtu.be/tBG8asUFFoE
 - Unboxing : https://youtu.be/CxSxPfMEcRY
 - Air-assist & pointeur : https://youtu.be/AwNY7BHcYXY
     - https://youtu.be/AwNY7BHcYXY
