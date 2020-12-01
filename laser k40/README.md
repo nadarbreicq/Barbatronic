@@ -1,6 +1,8 @@
 # K40
 
-Section concernant les améliorations de ma découpeuse laser K40. En cours de documentation ...
+Section concernant les améliorations de ma découpeuse laser K40. Les fichiers créé lors des lives anterieurs à Octobre sont réalisés sous Fusion360. Pour la suite, j'utilise FreeCAD.
+
+En cours de documentation ...
 
 ## Logiciels utilisés :
 
