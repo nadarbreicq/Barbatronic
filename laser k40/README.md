@@ -13,6 +13,7 @@ Section concernant les améliorations de ma découpeuse laser K40. En cours de d
 ## Liens interessants sur la K40
 
 - Blog de Iooner : https://iooner.io/k40-laser/
+- K40.se : https://k40.se/
 
 ## Liste des vidéos par thématique
 
