@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="CUVE.svg"
+   id="svg873"
+   version="1.1"
+   viewBox="0 0 287.26151 182.2615"
+   height="182.26151mm"
+   width="287.26151mm">
+  <metadata
+     id="metadata879">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs877" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg873"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="172.43647"
+     inkscape:cx="107.3075"
+     inkscape:zoom="0.5325158"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview875"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="rotate(-90,91.130749,92.774869)"
+     id="g892">
+    <g
+       id="Unfold_Sketch"
+       transform="matrix(1,0,0,-1,92.774867,145.27487)"
+       style="stroke:#ff0000">
+      <path
+         id="Unfold_Sketch_w0000"
+         d="m 60.955752,14.955752 h 29 l 1,1 V 142.45575 l -1,1 H -89.955752 l -1,-1 V 15.955752 l 1,-1 h 29 v 1 H -57.5 V -142.45575 l 1,-1 h 113 l 1,1 V 15.955752 h 3.455752 v -1"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         cx="65.95575"
+         cy="138.45575"
+         r="1.6"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle858" />
+      <circle
+         cx="80.95575"
+         cy="138.45575"
+         r="1.6"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle860" />
+      <circle
+         cx="-65.95575"
+         cy="138.45575"
+         r="1.6"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle862" />
+      <circle
+         cx="-80.95575"
+         cy="138.45575"
+         r="1.6"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle864" />
+      <path
+         id="Unfold_Sketch_w0005"
+         d="M 59.227876,143.45575 V 15.955752"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:#00bad1;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Unfold_Sketch_w0006"
+         d="M -59.227876,15.955752 V 143.45575"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:#00bad1;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Unfold_Sketch_w0007"
+         d="m -57.5,14.227876 h 115"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:#00bad1;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Unfold_Sketch_w0008"
+         d="m 57.5,-14.227876 h -115"
+         stroke="#000080"
+         stroke-width="0.35 px"
+         style="fill:#00bad1;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <title
+         id="title870">b'Unfold_Sketch'</title>
+    </g>
+  </g>
+</svg>
