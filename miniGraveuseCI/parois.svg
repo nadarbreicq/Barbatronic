@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="parois.svg"
+   id="svg1658"
+   version="1.1"
+   viewBox="0 0 202.07788 180.35"
+   height="180.35001mm"
+   width="202.07788mm">
+  <metadata
+     id="metadata1664">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1662" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="svg1658"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="418.31715"
+     inkscape:cx="432.89138"
+     inkscape:zoom="0.59486194"
+     showgrid="false"
+     id="namedview1660"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     style="stroke:#ff0000"
+     transform="matrix(1,0,0,-1,0.175,90.175)"
+     id="Unfold_Sketch">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       d="M 200.72788,90 H 4 L 0,86 V -86 l 4,-4 h 196.72788 l 1,1 V 89 l -1,1"
+       id="Unfold_Sketch_w0000" />
+    <circle
+       id="circle1620"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="163.33333" />
+    <circle
+       id="circle1622"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="136.66667" />
+    <circle
+       id="circle1624"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="110" />
+    <circle
+       id="circle1626"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="83.333336" />
+    <circle
+       id="circle1628"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="83.333336" />
+    <circle
+       id="circle1630"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="110" />
+    <circle
+       id="circle1632"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="136.66667" />
+    <circle
+       id="circle1634"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="163.33333" />
+    <circle
+       id="circle1636"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="60"
+       cx="10" />
+    <circle
+       id="circle1638"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="30"
+       cx="10" />
+    <circle
+       id="circle1640"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="5.7710019e-32"
+       cx="10" />
+    <circle
+       id="circle1642"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-30"
+       cx="10" />
+    <circle
+       id="circle1644"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-60"
+       cx="10" />
+    <circle
+       id="circle1646"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="56.666668" />
+    <circle
+       id="circle1648"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="56.666668" />
+    <circle
+       id="circle1650"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="80"
+       cx="30" />
+    <circle
+       id="circle1652"
+       style="fill:none;stroke:#ff0000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       r="2"
+       cy="-80"
+       cx="30" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000f5;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       stroke-width="0.35 px"
+       stroke="#000080"
+       d="M 180.86394,-90 V 90"
+       id="Unfold_Sketch_w0018" />
+    <title
+       id="title1655">b'Unfold_Sketch'</title>
+  </g>
+</svg>
