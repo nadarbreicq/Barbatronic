@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="couvercle.svg"
+   id="svg1713"
+   version="1.1"
+   viewBox="0 0 96.9 31.9"
+   height="31.9mm"
+   width="96.9mm">
+  <metadata
+     id="metadata1719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1717" />
+  <sodipodi:namedview
+     inkscape:current-layer="Pad002"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="74.206796"
+     inkscape:cx="211.05948"
+     inkscape:zoom="2.518794"
+     showgrid="false"
+     id="namedview1715"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(48.450000,15.950000) scale(1,-1)"
+     id="Pad002">
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -44.5 15.0 L -44.5 15.0 L -47.5 12.0 L -47.5 12.0 L -44.5 15.0 Z "
+       id="Pad002_f0000" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -47.5 12.0 L -47.5 12.0 L -47.5 -12.0 L -47.5 -12.0 L -47.5 12.0 Z "
+       id="Pad002_f0001" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -47.5 -11.999999999999998 L -44.5 -15.0 L -44.5 -15.0 L -47.5 -12.0 L -47.5 -12.0 Z "
+       id="Pad002_f0002" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -44.5 -15.0 L 44.5 -15.0 L 44.5 -15.0 L -44.5 -15.0 L -44.5 -15.0 Z "
+       id="Pad002_f0003" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M 44.5 -15.0 L 47.5 -11.999999999999998 L 47.5 -12.0 L 44.5 -15.0 L 44.5 -15.0 Z "
+       id="Pad002_f0004" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M 47.5 -12.0 L 47.5 12.0 L 47.5 12.0 L 47.5 -12.0 L 47.5 -12.0 Z "
+       id="Pad002_f0005" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M 47.5 11.999999999999998 L 44.5 15.0 L 44.5 15.0 L 47.5 12.0 L 47.5 12.0 Z "
+       id="Pad002_f0006" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M 44.5 15.0 L -44.5 15.0 L -44.5 15.0 L 44.5 15.0 L 44.5 15.0 Z "
+       id="Pad002_f0007" />
+    <circle
+       id="circle1698"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="1.6"
+       cy="10.699999999839475"
+       cx="-43.20000000003215" />
+    <circle
+       id="circle1700"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="1.6"
+       cy="10.699999999994176"
+       cx="43.19999999998219" />
+    <circle
+       id="circle1702"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="1.6"
+       cy="-10.699999999994176"
+       cx="43.19999999998219" />
+    <circle
+       id="circle1704"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#ff0000"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="1.6"
+       cy="-10.7"
+       cx="-43.19999999998025" />
+    <title
+       id="title1710">b'Pad002'</title>
+  </g>
+</svg>
