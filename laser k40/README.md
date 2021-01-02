@@ -51,4 +51,7 @@ Liste du materiel utilisé. Il se peut que les prix fluctuent ou que les article
 | [Ampèremètre](https://www.aliexpress.com/item/DC-Ampere-Meter-30mA-85C17-0-30-milliampere-Amp-Analog-Panel-Meter-Current-Ammeter-Co2-Laser/32602637262.html?spm=a2g0s.9042311.0.0.27426c37Mf47Zz) | 8,00$ |
 | [Ventilateur](https://www.amazon.fr/gp/product/B002KTVFTE/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) | 6,25€ |
 | [Fil chauffant](https://www.amazon.fr/gp/product/B01BWAZ5EM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) | 6,57€ |
-| [Pompe](https://www.amazon.fr/gp/product/B01GH82S9O/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) | 15,99€ |
+| [Pompe à eau](https://www.amazon.fr/gp/product/B01GH82S9O/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) | 15,99€ |
+| [Pompe à air](https://fr.aliexpress.com/item/4000963249751.html) | 2€ environ |
+| [Ventouse](https://fr.aliexpress.com/item/32752677078.html) | - € |
+| [Raccord](https://fr.aliexpress.com/item/32951263788.html) | - € |
