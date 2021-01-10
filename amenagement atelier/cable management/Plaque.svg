@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Plaque.svg"
+   id="svg1007"
+   width="119.00934mm"
+   version="1.2"
+   viewBox="0 0 1190.0934 202.99999"
+   height="20.299999mm">
+  <metadata
+     id="metadata1011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>FreeCAD SVG Export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg1007"
+     inkscape:window-maximized="1"
+     inkscape:window-y="161"
+     inkscape:window-x="1072"
+     inkscape:cy="11.384555"
+     inkscape:cx="145.92801"
+     inkscape:zoom="1.0419544"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview1009"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title923">FreeCAD SVG Export</title>
+  <desc
+     id="desc925">Drawing page: Page exported from FreeCAD document: Sans_nom</desc>
+  <defs
+     id="defs927" />
+  <rect
+     y="-332.72009"
+     height="0"
+     x="648.3717"
+     width="0"
+     id="rect929"
+     style="font-style:normal;font-weight:400;font-size:29.1042px;font-family:'MS Shell Dlg 2';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     vector-effect="non-scaling-stroke"
+     fill-rule="evenodd"
+     d="M 97.906404,1.5 H 1168.5934 c 11.045,0 20,8.9543 20,20 V 154 c 0,26.2335 -21.267,47.5 -47.5,47.5 H 21.900404 c -10.838,0 -19.7040002,-8.6323 -19.9930002,-19.4662 -1.15800003,-43.3862 0.153,-86.8031 3.928,-130.0403 0.361,-4.1329 3.821,-7.3042 7.9700002,-7.3042 h 3.813 c 4.286,0 7.811,3.3779 7.993,7.6602 0.447,10.5197 8.974,18.8911 19.5,19.1447 10.526,0.2536 19.446,-7.6975 20.399,-18.1835 0.766,-8.418 1.629,-16.8267 2.591,-25.2245 1.735,-15.1487 14.558,-26.5862 29.805,-26.5862"
+     id="path933"
+     style="font-style:normal;font-weight:400;font-size:29.1042px;font-family:'MS Shell Dlg 2';fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     y="-332.72009"
+     height="0"
+     x="648.3717"
+     width="0"
+     id="rect937"
+     style="font-style:normal;font-weight:400;font-size:29.1042px;font-family:'MS Shell Dlg 2';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+  <rect
+     y="-332.72009"
+     height="0"
+     x="648.3717"
+     width="0"
+     id="rect945"
+     style="font-style:normal;font-weight:400;font-size:29.1042px;font-family:'MS Shell Dlg 2';fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     vector-effect="none"
+     fill-rule="evenodd"
+     d="m 1163.0934,151.5 c 0,9.665 -7.835,17.5 -17.5,17.5 -9.665,0 -17.5,-7.835 -17.5,-17.5 0,-9.665 7.835,-17.5 17.5,-17.5 9.665,0 17.5,7.835 17.5,17.5"
+     id="path1001"
+     style="font-style:normal;font-weight:400;font-size:29.1042px;font-family:'MS Shell Dlg 2';fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
