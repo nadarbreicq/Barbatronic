@@ -1,6 +1,6 @@
 # Barbatronic
 
-Ce git répertorie la plupart des projets présentés lors des Lives Twitch et des vidéos Youtubes de la chaine Barbatronic. Pour les projets liés à la Coupe de France de robotique, vosu pouvez retrouver les sources dans les repo de l'éauipe des Karibous (https://github.com/LesKaribous)
+Ce git répertorie la plupart des projets présentés lors des Lives Twitch et des vidéos Youtubes de la chaine Barbatronic. Pour les projets liés à la Coupe de France de robotique, vosu pouvez retrouver les sources dans les repo de l'équipe des Karibous (https://github.com/LesKaribous)
 
 Les projets sont triés par type plutôt que par numéro de live ou de vidéos car un projet peut être présenté plusieurs fois sur plusieurs supports différents.
 
