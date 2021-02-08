@@ -21,3 +21,5 @@
 *.s#7
 *.s#8
 *.ini
+backups
+_autosave
