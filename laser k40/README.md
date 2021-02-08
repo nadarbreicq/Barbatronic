@@ -53,5 +53,5 @@ Liste du materiel utilisé. Il se peut que les prix fluctuent ou que les article
 | [Fil chauffant](https://www.amazon.fr/gp/product/B01BWAZ5EM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) | 6,57€ |
 | [Pompe à eau](https://www.amazon.fr/gp/product/B01GH82S9O/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) | 15,99€ |
 | [Pompe à air](https://fr.aliexpress.com/item/4000963249751.html) | 2€ environ |
-| [Ventouse](https://fr.aliexpress.com/item/32752677078.html) | - € |
-| [Raccord](https://fr.aliexpress.com/item/32951263788.html) | - € |
+| [Ventouse - DP12](https://fr.aliexpress.com/item/32752677078.html) | - € |
+| [Raccord - ZPT06BS-A5](https://fr.aliexpress.com/item/32951263788.html) | - € |
