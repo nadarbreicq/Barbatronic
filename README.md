@@ -20,7 +20,7 @@ Cura : https://ultimaker.com/fr/software/ultimaker-cura
 
 ## Socials :
 
-Youtube   : https://www.youtube.com/barbatronic
+Youtube   : https://www.youtube.com/barbatroniclive
 
 Twitch    : https://www.twitch.tv/barbatroniclive
 
