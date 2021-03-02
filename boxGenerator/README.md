@@ -12,7 +12,7 @@ Vous pouvez parametrer votre boite à l'aide de l'outil "Parameters" dans l'arbr
 
 Chaque panneau dispose d'un plan de construction pour divers modifications personnalisées. Les fonctions de generation sont "cachées".
 
-![](images/TreeView001.png)
+![](images/TreeView.png)
 
 Les plans de découpe sont automatiquement générés et prêts à être exportés en svg pour la découpe laser.
 
