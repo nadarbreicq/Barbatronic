@@ -23,3 +23,12 @@
 *.ini
 *backups*
 *_autosave*
+boxGenerator/Archives/boxGenerator.FCStd
+boxGenerator/Archives/boxGenerator.FCStd1
+boxGenerator/Archives/boxGeneratorV1.1.FCStd
+boxGenerator/Archives/boxGeneratorV1.2.FCStd
+boxGenerator/Archives/boxGeneratorV1.FCStd
+boxGenerator/Archives/boxGeneratorV1.FCStd1
+boxGenerator/Archives/Fomules.txt
+boxGenerator/Archives/PlanDecoupe.svg
+*.FCStd1
