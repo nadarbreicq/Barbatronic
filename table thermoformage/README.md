@@ -1,6 +1,6 @@
 # Table de thermoformage - Version simple
 
-Petite table de thermoformage réalisé à la découpeuse laser K40 et permettant le thermoformage de petits projets.
+Petite table de thermoformage réalisée à la découpeuse laser K40 et permettant le thermoformage de petits projets.
 
 ![](Images/table001.jpg)
 
